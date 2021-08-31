@@ -1,9 +1,9 @@
 # meeting-room
 <p align="center"> 
-  <h3 align="center">Google Meet Clone</h3>
+  <h3 align="center">Meeting Room</h3>
 
   <p align="center">
-    Google Meet Clone!
+    Meeting Room!
     <br />  
      A Video Conference App Similar to Google Meet
     <br />
